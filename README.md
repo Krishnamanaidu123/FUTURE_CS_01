@@ -47,3 +47,7 @@
 
 ## Disclaimer
 This assessment was conducted for educational purposes under a strictly passive, read-only scope. No exploitation or intrusive testing was performed. If testing a site you do not own, confirm it is explicitly designated for security-testing practice (e.g. Acunetix's `vulnweb.com` demo sites) or that you have written authorization.
+
+## Author
+
+THOTA JANAKI RAMA KRISHNAMA NAIDU — Cyber Security Track, Future Interns

@@ -1,6 +1,6 @@
 # FUTURE_CS_01
 
-# Vulnerability Assessment Report — [Target Website Name]
+# Vulnerability Assessment Report 
 
 **Task:** Future Interns — Cyber Security Task 1 (2026)
 **Type:** Read-only, passive vulnerability assessment
